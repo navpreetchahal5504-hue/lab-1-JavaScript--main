@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: darkblue;
+    margin-bottom: 20px;
+}
+
+#charater {
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    color: darkgreen;
+    border: 2px solid #000080;
+    border-radius: 10px;
+    line-height: 1.5;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: navy;
+}
